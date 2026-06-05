@@ -1,4 +1,4 @@
-# AQI Forecast
+# AQI Prediction System
 
 **AI Model Training Repository:** https://github.com/zeyad-shaban/NasaVibeCodingAIModel
 
